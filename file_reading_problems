@@ -5,10 +5,10 @@
 # the relevant text file/s is present in the same folder as this file
 
 ################################### Q1 ###################################
-# In this part you are given a file named names_ages.txt containing names  #
-# and ages of a bunch of people. Your job is to read this file and store #
-# the names and ages in a dictionary, with names as Keys and ages as     #
-# Values.                                                                #
+# In this part you are given a file named names_ages.txt containing      #
+# names and ages of a bunch of people. Your job is to read this file and #
+# store the names and ages in a dictionary, with names as Keys and ages  #
+# as Values.                                                             #
 # Hint: Use string delineation to first separate the name age pairs and  # 
 # store them somewhere. Secondly seperate the names and ages and store   #
 # them in the dictionary.                                                #
