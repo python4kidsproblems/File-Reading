@@ -1,8 +1,8 @@
 # File reading and writing Practice Problems
 
 # How to use this file:
-# Copy this to your python (.py) file, and write your code in the given space
-# the relevant text file/s is present in the same folder as this file
+#  Copy this to your python (.py) file, and write your code in the given space
+#  the relevant text file/s is present in the same folder as this file
 
 ################################### Q1 ###################################
 # In this part you are given a file named names_ages.txt containing      #
